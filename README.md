@@ -1,2 +1,2 @@
-# master-class
+# masterclass
 master-class
