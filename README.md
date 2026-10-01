@@ -1,2 +1,2 @@
 # masterclass
-master-class
+masterclass notes
